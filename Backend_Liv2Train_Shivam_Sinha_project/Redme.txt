@@ -1,0 +1,6 @@
+Import this folder in Spring.
+
+Call the APIs at Port==     localhost:9090/CenterInfo
+
+In Post API :
+	Post the detail in Json Format
