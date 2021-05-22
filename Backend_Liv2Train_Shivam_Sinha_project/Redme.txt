@@ -1,5 +1,10 @@
 Import this folder in Spring.
 
+
+For Post and Get APIs:
+Use any API Development Platform
+Suggestion:- Can use Postman API Development Platform.
+
 Call the APIs at Port==     localhost:9090/CenterInfo
 
 In Post API :
